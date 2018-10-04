@@ -1,2 +1,2 @@
-# short-quiz
+# Simple Quiz
 Short Quiz with Python.
