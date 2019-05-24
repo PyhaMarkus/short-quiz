@@ -1,2 +1,2 @@
 # Simple Quiz
-Simple Quiz with Python.
+A simple quiz with Python that runs on the terminal.
